@@ -23,11 +23,6 @@ The project demonstrates concepts of **game development, algorithms, and UI/UX d
 
 ---
 
-## 📸 Screenshots
-*(Add images of your chess game UI here)*
-
----
-
 ## 🎯 How to Run
 1. Clone the repository:
    ```bash
